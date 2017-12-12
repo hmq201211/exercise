@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOTest/IOTest.iml" filepath="$PROJECT_DIR$/IOTest/IOTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anonymousInnerClass/anonymousInnerClass.iml" filepath="$PROJECT_DIR$/anonymousInnerClass/anonymousInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigOTest/bigOTest.iml" filepath="$PROJECT_DIR$/bigOTest/bigOTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guiTest/guiTest.iml" filepath="$PROJECT_DIR$/guiTest/guiTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcTest/jdbcTest.iml" filepath="$PROJECT_DIR$/jdbcTest/jdbcTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringBufferTest/stringBufferTest.iml" filepath="$PROJECT_DIR$/stringBufferTest/stringBufferTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringTest/stringTest.iml" filepath="$PROJECT_DIR$/stringTest/stringTest.iml" />
+    </modules>
+  </component>
+</project>
