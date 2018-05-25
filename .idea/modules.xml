@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/stringBufferTest/stringBufferTest.iml" filepath="$PROJECT_DIR$/stringBufferTest/stringBufferTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/stringTest/stringTest.iml" filepath="$PROJECT_DIR$/stringTest/stringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summerTest/summerTest.iml" filepath="$PROJECT_DIR$/summerTest/summerTest.iml" />
     </modules>
   </component>
 </project>
